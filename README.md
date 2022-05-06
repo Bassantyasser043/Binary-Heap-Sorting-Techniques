@@ -17,5 +17,5 @@ build it in a max heap.
 but the only difference is insert build heap array while build not.
 
 4) Max: get max element from the heap.
-5) 
+
 2- According to the user's choice, the method will be performed.
